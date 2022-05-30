@@ -1,6 +1,6 @@
 ### Oie, eu sou a Gabriela Sakamoto 👋
 
-- 📕 Estudante de Analise e Desenvolvimento de Sistemas
+- 📕 Estudante de Análise e Desenvolvimento de Sistemas
 - 💻 Atualmente estagiando na Infortech/MS
 
 <div align="center">
